@@ -1,0 +1,3 @@
+- Docker is a tool for creating and managing container.
+- A container is a standardized unit of software.
+- The same container always yields the exact same application and execution behavior.
